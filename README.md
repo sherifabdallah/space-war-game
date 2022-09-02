@@ -1,8 +1,21 @@
-# Space-War-Game
+# Space-war-game
 
-This example makes use of the new 2D Tools introduced with Unity 4.3, in particular the new sprite renderers and animators. Before Unity 4.3, making 2D games was still possible, but the process was quite long, which led to many plugins helping in the workflow appear on the Asset Store.
-With the new 2D tools, porting the original Flash example (ActionScript 3.0 language) to Unity engine was a much simpler task. Most of the code was reused, differing mostly on Unity’s renderer specific tasks and on the menu controller.
+## Table of Content
+- [#Space-war-game](#Space-war-game)
+  * [Tools](#tools)
+  * [How to run](#how-to-run)
+  * [Author](#author)
 
-```Python
-Tools = ['Python', 'PyGame']
+## Tools
+1. Python
+2. Pygame
+
+## How to run
+* Enter the directory where the script is located then type the following to the console
+```Bash
+pip install pygame
+python main.py
 ```
+
+## Author
+[Sherif Abdullah](https://github.com/sherif-abdallah)
