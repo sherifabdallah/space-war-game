@@ -1,7 +1,7 @@
 # Space-war-game
 
 ## Table of Content
-- [#Space-war-game](#Space-war-game)
+- [Space war game](#Space-war-game)
   * [Tools](#tools)
   * [How to run](#how-to-run)
   * [Author](#author)
