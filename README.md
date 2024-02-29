@@ -18,4 +18,4 @@ python main.py
 ```
 
 ## Author
-[Sherif Abdullah](https://github.com/sherif-abdallah)
+[Sherif Abdullah](https://github.com/sherifabdallah)
